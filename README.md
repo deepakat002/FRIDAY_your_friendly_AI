@@ -1,4 +1,4 @@
-# <p align="center"> 🚀**FRIDAY_RAG_chatbot- an AI-Driven RAG Solution**🚀 </p> 
+# <p align="center"> 🚀**FRIDAY: an AI-Driven RAG Solution**🚀 </p> 
 
 <p align="center"> **Elevating Customer Support with Multi-Platform Data** </p>
 
